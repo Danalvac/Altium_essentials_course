@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+1V5 Pin=C10-1
+Removed Pin From Net: NetName=+1V5 Pin=J4-1
+Removed Pin From Net: NetName=+1V5 Pin=L2-2
+Change Net Color : Old Net Color=RGB(0, 0, 191) New Net Color=Default
+Added Pin To Net: NetName=+1V05 Pin=C10-1
+Added Pin To Net: NetName=+1V05 Pin=J4-1
+Added Pin To Net: NetName=+1V05 Pin=L2-2
+Added Net: Name=+1V05
